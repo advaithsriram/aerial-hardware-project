@@ -60,6 +60,5 @@ python visualize_path.py
 
 ## Safety Notes
 
-- Keep a clear safety perimeter during hardware tests.
-- Be ready to press `q` for emergency stop.
-- Start with conservative timing/velocity values and tune gradually.
+- Press `q` for emergency stop.
+
